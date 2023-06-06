@@ -63,7 +63,7 @@ Ou até mesmo fazer o clone de nosso projeto pelo github segue instruções:
   
   e por fim clique em "BUILD" e escolha qual será a plataforma que será gerado o realese
 
-**PARA VERSÕES DEBUG APPLE USE O SISTEMA OPERACIONAL MACOS E USE O IOS SIMULADOR
+*PARA VERSÕES DEBUG APPLE USE O SISTEMA OPERACIONAL MACOS E USE O IOS SIMULADOR
 
  ## LINKS DE VIDEO DO MOBILE (ANDROID E IOS) E WEB
 
@@ -106,4 +106,4 @@ Ou até mesmo fazer o clone de nosso projeto pelo github segue instruções:
 -[ACESSE O PROJETO](https://www.figma.com/file/SqmFGOSluqmZ1F9H9skRkq/IXIN---PROJETO-UNINOVE-S%C3%89TIMO-SEMESTRE-GRUPO-13?type=design&t=NX9FMQPC3s8ZYyXf-6)
  
  
- ### O USO DO CÓDIGO SÓ ESTÁ LIBERADO CASO HAJA A CITAÇÃO DO AUTOR PRINCIPAL.2023.DEVTEC_**
+ *O USO DO CÓDIGO SÓ ESTÁ LIBERADO CASO HAJA A CITAÇÃO DO AUTOR PRINCIPAL.2023.DEVTEC_
