@@ -1,7 +1,7 @@
 <?php
 
 
-$conn = new mysqli("localhost","u694995905_ixinU","wendell90P","u694995905_ixxin");
+$conn = new mysqli("localhost","ixin","","ixiin_db");
 
 if($conn){
 
