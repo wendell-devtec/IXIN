@@ -109,7 +109,7 @@ Ou até mesmo fazer o clone de nosso projeto pelo github segue instruções:
  ## CONTATO:
 -[SITE](https://devtecapps.com.br/)
 
--[WHATSAPP]EM BREVE
+-[WHATSAPP]()Em breve
 
  ## PAINEL DE CONTROLE
 	-EM BREVE..
