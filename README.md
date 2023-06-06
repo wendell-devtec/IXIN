@@ -111,7 +111,7 @@ Ou até mesmo fazer o clone de nosso projeto pelo github segue instruções:
 
 -[WHATSAPP]EM BREVE
 
- ## PAINEL DE CONTROLE EM DESENVOLVIMENTO
+ ## PAINEL DE CONTROLE
 	-EM BREVE..
  ##
  *O USO DO CÓDIGO SÓ ESTÁ LIBERADO CASO HAJA A CITAÇÃO DO AUTOR PRINCIPAL.2023.DEVTEC_
