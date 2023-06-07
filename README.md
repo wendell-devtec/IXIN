@@ -68,9 +68,9 @@ Ou até mesmo fazer o clone de nosso projeto pelo github segue instruções:
  ## LINKS DE VIDEO DO MOBILE (ANDROID E IOS) E WEB
 
 
--[VIDEO USO MOBILE]()
+-[VIDEO USO MOBILE](https://youtu.be/w6Un17oN780)
 
--[VIDEO USO WEB]()
+-[VIDEO USO WEB](https://youtu.be/BVze7b3VXkg)
   
 
 ## RECURSOS E FUNCIONABILIDADES
